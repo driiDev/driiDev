@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Oii! Sou a Andrielle Soares
 🔭 Sou estudante de Engenharia de Software<br>🌱 Atualmente focada no Frontend<br>
 
 
