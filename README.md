@@ -1,18 +1,26 @@
-# 💫 Oii! Sou a Andrielle Soares
-🔭 Sou estudante de Engenharia de Software<br>🌱 Atualmente focada no Frontend<br>
+# 💫 Oii! Meu nome é Andrielle Soares
+🔭 Sou estudante de Engenharia de Software<br><br>
+🧑🏽‍🎓 Técnica de Informática pelo IFSul<br><br>
+🌱 Atualmente focada no Frontend
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=driiDev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=driiDev&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=driiDev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">  
+  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=driiDev&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Andrielle Soares github stats" /> 
+  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driiDev&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+# 💻 Tecnologias:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Dri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Dri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andriellesoares/) 
+## 🌐 Contatos:
+<a href="https://www.linkedin.com/in/andriellesoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:andriellesoares45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=driiDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
