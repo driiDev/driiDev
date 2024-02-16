@@ -1,5 +1,5 @@
 # 💫 Oii! Meu nome é Andrielle Soares
-- 🔭 Sou estudante de Engenharia de Software
+- 🔭 Estudante de Engenharia de Software
 - 🧑🏽‍🎓 Técnica de Informática pelo IFSul
 - 🌱 Atualmente focada no Frontend
 #
