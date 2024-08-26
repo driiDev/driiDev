@@ -1,7 +1,7 @@
 # 💫 Oii! Meu nome é Andrielle Soares
-- 🔭 Estudante de Engenharia de Software
+- 🔭 Estudante de Sistemas de Informação - Unisinos
 - 🧑🏽‍🎓 Técnica de Informática pelo IFSul
-- 🎯 Atualmente focada no Front end
+- 🎯 Atualmente focada em desenvolvimento Fullstack
 #
 <a href="https://github.com/driiDev/github-readme-stats">
   <img align="center" width="54%" height="40%" src="https://github-readme-stats.vercel.app/api?username=driiDev&hide=contribs&show_icons=true&theme=omni" />
