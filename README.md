@@ -1,5 +1,5 @@
 # 💫 Oii! Meu nome é Andrielle Soares
-- 🔭 Estudante de Ciência da Computação - Unisinos
+- 🔭 Estudante de Engenharia de Software
 - 🧑🏽‍🎓 Técnica de Informática pelo IFSul
 - 🎯 Atualmente focada em desenvolvimento Fullstack
 #
